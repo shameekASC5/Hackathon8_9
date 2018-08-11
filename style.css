@@ -1,0 +1,18 @@
+/* .image {
+    width: 100px;
+    height: 100px;
+} */
+
+html {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+body {
+    background: url("https://previews.123rf.com/images/bsd555/bsd5551505/bsd555150500188/40292763-shotgun-with-bullets-game-resources-vector-clip-art-contour-lines-black-and-white-illustration-isola.jpg");
+    background-size: cover;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
